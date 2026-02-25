@@ -9,18 +9,9 @@
   <channel id="homesecurity.dtv">
     <display-name>homesecurity.dtv</display-name>
   </channel>
-  <programme start="20260224000000 -0500" stop="20260224235900 -0500" channel="adult.dtv">
-    <title>Adult Programming</title>
-    <desc>24-hour continuous programming.</desc>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260224235900 -0500" channel="localnews.dtv">
-    <title>Local News Coverage</title>
-    <desc>24-hour continuous programming.</desc>
-  </programme>
-  <programme start="20260224000000 -0500" stop="20260224235900 -0500" channel="homesecurity.dtv">
-    <title>Home Security Live Feed</title>
-    <desc>24-hour continuous programming.</desc>
-  </programme>
+  <channel id="govaccess.dtv">
+    <display-name>govaccess.dtv</display-name>
+  </channel>
   <programme start="20260225000000 -0500" stop="20260225235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -31,6 +22,10 @@
   </programme>
   <programme start="20260225000000 -0500" stop="20260225235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260225000000 -0500" stop="20260225235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260226000000 -0500" stop="20260226235900 -0500" channel="adult.dtv">
@@ -45,6 +40,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260226000000 -0500" stop="20260226235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260227000000 -0500" stop="20260227235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -55,6 +54,10 @@
   </programme>
   <programme start="20260227000000 -0500" stop="20260227235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260227000000 -0500" stop="20260227235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260228000000 -0500" stop="20260228235900 -0500" channel="adult.dtv">
@@ -69,6 +72,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260228000000 -0500" stop="20260228235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260301000000 -0500" stop="20260301235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -79,6 +86,10 @@
   </programme>
   <programme start="20260301000000 -0500" stop="20260301235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260301000000 -0500" stop="20260301235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260302000000 -0500" stop="20260302235900 -0500" channel="adult.dtv">
@@ -93,6 +104,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260302000000 -0500" stop="20260302235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260303000000 -0500" stop="20260303235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -103,6 +118,10 @@
   </programme>
   <programme start="20260303000000 -0500" stop="20260303235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260303000000 -0500" stop="20260303235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235900 -0500" channel="adult.dtv">
@@ -117,6 +136,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260304000000 -0500" stop="20260304235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260305000000 -0500" stop="20260305235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -127,6 +150,10 @@
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235900 -0500" channel="adult.dtv">
@@ -141,6 +168,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260306000000 -0500" stop="20260306235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260307000000 -0500" stop="20260307235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -151,6 +182,10 @@
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260308000000 -0500" stop="20260308235900 -0500" channel="adult.dtv">
@@ -165,6 +200,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260308000000 -0500" stop="20260308235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260309000000 -0500" stop="20260309235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -175,6 +214,10 @@
   </programme>
   <programme start="20260309000000 -0500" stop="20260309235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260309000000 -0500" stop="20260309235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260310000000 -0500" stop="20260310235900 -0500" channel="adult.dtv">
@@ -189,6 +232,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260310000000 -0500" stop="20260310235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260311000000 -0500" stop="20260311235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -199,6 +246,10 @@
   </programme>
   <programme start="20260311000000 -0500" stop="20260311235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260311000000 -0500" stop="20260311235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260312000000 -0500" stop="20260312235900 -0500" channel="adult.dtv">
@@ -213,6 +264,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260312000000 -0500" stop="20260312235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260313000000 -0500" stop="20260313235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -223,6 +278,10 @@
   </programme>
   <programme start="20260313000000 -0500" stop="20260313235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260313000000 -0500" stop="20260313235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260314000000 -0500" stop="20260314235900 -0500" channel="adult.dtv">
@@ -237,6 +296,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260314000000 -0500" stop="20260314235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260315000000 -0500" stop="20260315235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -247,6 +310,10 @@
   </programme>
   <programme start="20260315000000 -0500" stop="20260315235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260315000000 -0500" stop="20260315235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260316000000 -0500" stop="20260316235900 -0500" channel="adult.dtv">
@@ -261,6 +328,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260316000000 -0500" stop="20260316235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260317000000 -0500" stop="20260317235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -271,6 +342,10 @@
   </programme>
   <programme start="20260317000000 -0500" stop="20260317235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260317000000 -0500" stop="20260317235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260318000000 -0500" stop="20260318235900 -0500" channel="adult.dtv">
@@ -285,6 +360,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260318000000 -0500" stop="20260318235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260319000000 -0500" stop="20260319235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -295,6 +374,10 @@
   </programme>
   <programme start="20260319000000 -0500" stop="20260319235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260319000000 -0500" stop="20260319235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260320000000 -0500" stop="20260320235900 -0500" channel="adult.dtv">
@@ -309,6 +392,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260320000000 -0500" stop="20260320235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260321000000 -0500" stop="20260321235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -319,6 +406,10 @@
   </programme>
   <programme start="20260321000000 -0500" stop="20260321235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260321000000 -0500" stop="20260321235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260322000000 -0500" stop="20260322235900 -0500" channel="adult.dtv">
@@ -333,6 +424,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260322000000 -0500" stop="20260322235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260323000000 -0500" stop="20260323235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -343,6 +438,10 @@
   </programme>
   <programme start="20260323000000 -0500" stop="20260323235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260323000000 -0500" stop="20260323235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260324000000 -0500" stop="20260324235900 -0500" channel="adult.dtv">
@@ -357,6 +456,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260324000000 -0500" stop="20260324235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260325000000 -0500" stop="20260325235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -367,6 +470,10 @@
   </programme>
   <programme start="20260325000000 -0500" stop="20260325235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260325000000 -0500" stop="20260325235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260326000000 -0500" stop="20260326235900 -0500" channel="adult.dtv">
@@ -381,6 +488,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260326000000 -0500" stop="20260326235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260327000000 -0500" stop="20260327235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -391,6 +502,10 @@
   </programme>
   <programme start="20260327000000 -0500" stop="20260327235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260327000000 -0500" stop="20260327235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260328000000 -0500" stop="20260328235900 -0500" channel="adult.dtv">
@@ -405,6 +520,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260328000000 -0500" stop="20260328235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260329000000 -0500" stop="20260329235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -415,6 +534,10 @@
   </programme>
   <programme start="20260329000000 -0500" stop="20260329235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260329000000 -0500" stop="20260329235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260330000000 -0500" stop="20260330235900 -0500" channel="adult.dtv">
@@ -429,6 +552,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260330000000 -0500" stop="20260330235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260331000000 -0500" stop="20260331235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -439,6 +566,10 @@
   </programme>
   <programme start="20260331000000 -0500" stop="20260331235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260331000000 -0500" stop="20260331235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260401000000 -0500" stop="20260401235900 -0500" channel="adult.dtv">
@@ -453,6 +584,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260401000000 -0500" stop="20260401235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260402000000 -0500" stop="20260402235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -463,6 +598,10 @@
   </programme>
   <programme start="20260402000000 -0500" stop="20260402235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260402000000 -0500" stop="20260402235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260403000000 -0500" stop="20260403235900 -0500" channel="adult.dtv">
@@ -477,6 +616,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260403000000 -0500" stop="20260403235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260404000000 -0500" stop="20260404235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -487,6 +630,10 @@
   </programme>
   <programme start="20260404000000 -0500" stop="20260404235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260404000000 -0500" stop="20260404235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260405000000 -0500" stop="20260405235900 -0500" channel="adult.dtv">
@@ -501,6 +648,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260405000000 -0500" stop="20260405235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260406000000 -0500" stop="20260406235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -511,6 +662,10 @@
   </programme>
   <programme start="20260406000000 -0500" stop="20260406235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260406000000 -0500" stop="20260406235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260407000000 -0500" stop="20260407235900 -0500" channel="adult.dtv">
@@ -525,6 +680,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260407000000 -0500" stop="20260407235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260408000000 -0500" stop="20260408235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -535,6 +694,10 @@
   </programme>
   <programme start="20260408000000 -0500" stop="20260408235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260408000000 -0500" stop="20260408235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260409000000 -0500" stop="20260409235900 -0500" channel="adult.dtv">
@@ -549,6 +712,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260409000000 -0500" stop="20260409235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260410000000 -0500" stop="20260410235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -559,6 +726,10 @@
   </programme>
   <programme start="20260410000000 -0500" stop="20260410235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260410000000 -0500" stop="20260410235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260411000000 -0500" stop="20260411235900 -0500" channel="adult.dtv">
@@ -573,6 +744,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260411000000 -0500" stop="20260411235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260412000000 -0500" stop="20260412235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -583,6 +758,10 @@
   </programme>
   <programme start="20260412000000 -0500" stop="20260412235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260412000000 -0500" stop="20260412235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260413000000 -0500" stop="20260413235900 -0500" channel="adult.dtv">
@@ -597,6 +776,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260413000000 -0500" stop="20260413235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260414000000 -0500" stop="20260414235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -607,6 +790,10 @@
   </programme>
   <programme start="20260414000000 -0500" stop="20260414235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260414000000 -0500" stop="20260414235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260415000000 -0500" stop="20260415235900 -0500" channel="adult.dtv">
@@ -621,6 +808,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260415000000 -0500" stop="20260415235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260416000000 -0500" stop="20260416235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -631,6 +822,10 @@
   </programme>
   <programme start="20260416000000 -0500" stop="20260416235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260416000000 -0500" stop="20260416235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260417000000 -0500" stop="20260417235900 -0500" channel="adult.dtv">
@@ -645,6 +840,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260417000000 -0500" stop="20260417235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260418000000 -0500" stop="20260418235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -655,6 +854,10 @@
   </programme>
   <programme start="20260418000000 -0500" stop="20260418235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260418000000 -0500" stop="20260418235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260419000000 -0500" stop="20260419235900 -0500" channel="adult.dtv">
@@ -669,6 +872,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260419000000 -0500" stop="20260419235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260420000000 -0500" stop="20260420235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -679,6 +886,10 @@
   </programme>
   <programme start="20260420000000 -0500" stop="20260420235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260420000000 -0500" stop="20260420235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260421000000 -0500" stop="20260421235900 -0500" channel="adult.dtv">
@@ -693,6 +904,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260421000000 -0500" stop="20260421235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260422000000 -0500" stop="20260422235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -703,6 +918,10 @@
   </programme>
   <programme start="20260422000000 -0500" stop="20260422235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260422000000 -0500" stop="20260422235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260423000000 -0500" stop="20260423235900 -0500" channel="adult.dtv">
@@ -717,6 +936,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260423000000 -0500" stop="20260423235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260424000000 -0500" stop="20260424235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -727,6 +950,10 @@
   </programme>
   <programme start="20260424000000 -0500" stop="20260424235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260424000000 -0500" stop="20260424235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260425000000 -0500" stop="20260425235900 -0500" channel="adult.dtv">
@@ -741,6 +968,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260425000000 -0500" stop="20260425235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260426000000 -0500" stop="20260426235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -751,6 +982,10 @@
   </programme>
   <programme start="20260426000000 -0500" stop="20260426235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260426000000 -0500" stop="20260426235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260427000000 -0500" stop="20260427235900 -0500" channel="adult.dtv">
@@ -765,6 +1000,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260427000000 -0500" stop="20260427235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260428000000 -0500" stop="20260428235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -775,6 +1014,10 @@
   </programme>
   <programme start="20260428000000 -0500" stop="20260428235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260428000000 -0500" stop="20260428235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260429000000 -0500" stop="20260429235900 -0500" channel="adult.dtv">
@@ -789,6 +1032,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260429000000 -0500" stop="20260429235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260430000000 -0500" stop="20260430235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -799,6 +1046,10 @@
   </programme>
   <programme start="20260430000000 -0500" stop="20260430235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260430000000 -0500" stop="20260430235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260501000000 -0500" stop="20260501235900 -0500" channel="adult.dtv">
@@ -813,6 +1064,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260501000000 -0500" stop="20260501235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260502000000 -0500" stop="20260502235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -823,6 +1078,10 @@
   </programme>
   <programme start="20260502000000 -0500" stop="20260502235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260502000000 -0500" stop="20260502235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260503000000 -0500" stop="20260503235900 -0500" channel="adult.dtv">
@@ -837,6 +1096,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260503000000 -0500" stop="20260503235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260504000000 -0500" stop="20260504235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -847,6 +1110,10 @@
   </programme>
   <programme start="20260504000000 -0500" stop="20260504235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260504000000 -0500" stop="20260504235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260505000000 -0500" stop="20260505235900 -0500" channel="adult.dtv">
@@ -861,6 +1128,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260505000000 -0500" stop="20260505235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260506000000 -0500" stop="20260506235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -871,6 +1142,10 @@
   </programme>
   <programme start="20260506000000 -0500" stop="20260506235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260506000000 -0500" stop="20260506235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260507000000 -0500" stop="20260507235900 -0500" channel="adult.dtv">
@@ -885,6 +1160,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260507000000 -0500" stop="20260507235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260508000000 -0500" stop="20260508235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -895,6 +1174,10 @@
   </programme>
   <programme start="20260508000000 -0500" stop="20260508235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260508000000 -0500" stop="20260508235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260509000000 -0500" stop="20260509235900 -0500" channel="adult.dtv">
@@ -909,6 +1192,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260509000000 -0500" stop="20260509235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260510000000 -0500" stop="20260510235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -919,6 +1206,10 @@
   </programme>
   <programme start="20260510000000 -0500" stop="20260510235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260510000000 -0500" stop="20260510235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260511000000 -0500" stop="20260511235900 -0500" channel="adult.dtv">
@@ -933,6 +1224,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260511000000 -0500" stop="20260511235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260512000000 -0500" stop="20260512235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -943,6 +1238,10 @@
   </programme>
   <programme start="20260512000000 -0500" stop="20260512235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260513000000 -0500" stop="20260513235900 -0500" channel="adult.dtv">
@@ -957,6 +1256,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260513000000 -0500" stop="20260513235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260514000000 -0500" stop="20260514235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -967,6 +1270,10 @@
   </programme>
   <programme start="20260514000000 -0500" stop="20260514235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260514000000 -0500" stop="20260514235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260515000000 -0500" stop="20260515235900 -0500" channel="adult.dtv">
@@ -981,6 +1288,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260515000000 -0500" stop="20260515235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260516000000 -0500" stop="20260516235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -991,6 +1302,10 @@
   </programme>
   <programme start="20260516000000 -0500" stop="20260516235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260516000000 -0500" stop="20260516235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260517000000 -0500" stop="20260517235900 -0500" channel="adult.dtv">
@@ -1005,6 +1320,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260517000000 -0500" stop="20260517235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260518000000 -0500" stop="20260518235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -1015,6 +1334,10 @@
   </programme>
   <programme start="20260518000000 -0500" stop="20260518235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260518000000 -0500" stop="20260518235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260519000000 -0500" stop="20260519235900 -0500" channel="adult.dtv">
@@ -1029,6 +1352,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260519000000 -0500" stop="20260519235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260520000000 -0500" stop="20260520235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -1039,6 +1366,10 @@
   </programme>
   <programme start="20260520000000 -0500" stop="20260520235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260520000000 -0500" stop="20260520235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260521000000 -0500" stop="20260521235900 -0500" channel="adult.dtv">
@@ -1053,6 +1384,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260521000000 -0500" stop="20260521235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260522000000 -0500" stop="20260522235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -1063,6 +1398,10 @@
   </programme>
   <programme start="20260522000000 -0500" stop="20260522235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260522000000 -0500" stop="20260522235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
   <programme start="20260523000000 -0500" stop="20260523235900 -0500" channel="adult.dtv">
@@ -1077,6 +1416,10 @@
     <title>Home Security Live Feed</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
+  <programme start="20260523000000 -0500" stop="20260523235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
   <programme start="20260524000000 -0500" stop="20260524235900 -0500" channel="adult.dtv">
     <title>Adult Programming</title>
     <desc>24-hour continuous programming.</desc>
@@ -1087,6 +1430,26 @@
   </programme>
   <programme start="20260524000000 -0500" stop="20260524235900 -0500" channel="homesecurity.dtv">
     <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260524000000 -0500" stop="20260524235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260525000000 -0500" stop="20260525235900 -0500" channel="adult.dtv">
+    <title>Adult Programming</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260525000000 -0500" stop="20260525235900 -0500" channel="localnews.dtv">
+    <title>Local News Coverage</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260525000000 -0500" stop="20260525235900 -0500" channel="homesecurity.dtv">
+    <title>Home Security Live Feed</title>
+    <desc>24-hour continuous programming.</desc>
+  </programme>
+  <programme start="20260525000000 -0500" stop="20260525235900 -0500" channel="govaccess.dtv">
+    <title>Government Access Channel</title>
     <desc>24-hour continuous programming.</desc>
   </programme>
 </tv>
